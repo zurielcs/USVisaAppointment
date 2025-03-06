@@ -1,6 +1,6 @@
-# Appointment Availability Instructions
+# US Visa Appointment Availability in Mexico
 
-This guide provides step-by-step instructions to access the U.S. Visa appointment system, sign in, and run a JavaScript script in the browser's Developer Tools to recover available appointment dates.
+This guide provides step-by-step instructions to access the U.S. Visa appointment system for Mexico locations.
 
 ## Prerequisites
 - Google Chrome or any modern browser with Developer Tools (F12)
